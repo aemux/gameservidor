@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Jenfus/Documents/New Project/Open Source Game-Server/commons-codec-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jenfus/Documents/New Project/Open Source Game-Server/HikariCP-3.4.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jenfus/Documents/New Project/Open Source Game-Server/jep.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jenfus/Documents/New Project/Open Source Game-Server/joda-time-2.10.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jenfus/Documents/New Project/Open Source Game-Server/kotlin-reflect.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jenfus/Documents/New Project/Open Source Game-Server/kotlin-reflect-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jenfus/Documents/New Project/Open Source Game-Server/kotlin-stdlib.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jenfus/Documents/New Project/Open Source Game-Server/kotlin-stdlib-jdk7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jenfus/Documents/New Project/Open Source Game-Server/kotlin-stdlib-jdk7-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jenfus/Documents/New Project/Open Source Game-Server/kotlin-stdlib-jdk8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jenfus/Documents/New Project/Open Source Game-Server/kotlin-stdlib-jdk8-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jenfus/Documents/New Project/Open Source Game-Server/kotlin-stdlib-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jenfus/Documents/New Project/Open Source Game-Server/kotlin-test.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jenfus/Documents/New Project/Open Source Game-Server/kotlin-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jenfus/Documents/New Project/Open Source Game-Server/logback-classic-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jenfus/Documents/New Project/Open Source Game-Server/logback-core-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jenfus/Documents/New Project/Open Source Game-Server/lombok-1.18.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jenfus/Documents/New Project/Open Source Game-Server/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jenfus/Documents/New Project/Open Source Game-Server/mariadb-java-client-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jenfus/Documents/New Project/Open Source Game-Server/mysql.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Jenfus/Documents/New Project/Open Source Game-Server/slf4j-api-1.7.30.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
